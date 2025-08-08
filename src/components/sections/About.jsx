@@ -85,7 +85,7 @@ export const About = () => {
               <div className="space-y-4 text-gray-300">
 
               <div>
-                  <h4 className="font-semibold">Front-End Developer <br /><br />Puzzle Connect <br /> (July 2025 - Aug 2025)</h4>
+                  <h4 className="font-semibold">Front-End Developer<br />Puzzle Connect <br /> (July 2025 - Aug 2025)</h4>
                   <p>
                     Built a word puzzle game with timed rounds, hint mechanics, and a 3-lives system.
                   </p>
@@ -95,7 +95,7 @@ export const About = () => {
                 </div>
 
                 <div>
-                  <h4 className="font-semibold">Front-End Developer <br /><br />Arbre Bnb <br /> (May 2025 - June 2025)</h4>
+                  <h4 className="font-semibold">Front-End Developer<br />Arbre Bnb <br /> (May 2025 - June 2025)</h4>
                   <p>
                     Created a booking website for treehouse accommodations, featuring immersive UI, lightbox galleries, and live pricing.
                   </p>
@@ -105,7 +105,7 @@ export const About = () => {
                 </div>
 
                 <div>
-                  <h4 className="font-semibold">Front-End Developer <br /><br />Fitness Trainer App <br /> (Feb 2025 - Apr 2025)</h4>
+                  <h4 className="font-semibold">Front-End Developer<br />Fitness Trainer App <br /> (Feb 2025 - Apr 2025)</h4>
                   <p>
                     Developed a fully responsive workout application allowing users to build custom routines.
                   </p>
