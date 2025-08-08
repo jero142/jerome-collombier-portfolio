@@ -110,7 +110,7 @@ export const About = () => {
                     Developed a fully responsive workout application allowing users to build custom routines.
                   </p>
                   <p className="mt-1 text-sm text-gray-400">
-                    <strong>Tech stack:</strong> React, Redux Toolkit, Sass, Vite test
+                    <strong>Tech stack:</strong> React, Redux Toolkit, Sass, Vite
                   </p>
                 </div>
 
