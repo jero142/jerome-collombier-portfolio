@@ -107,7 +107,7 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">Front-End Developer<br />Fitness Trainer App <br /> (Feb 2025 - Apr 2025)</h4>
                   <p>
-                    Developed a fuly responsive workout application allowing users to build custom routines.
+                    Developed a fully responsive workout application allowing users to build custom routines.
                   </p>
                   <p className="mt-1 text-sm text-gray-400">
                     <strong>Tech stack:</strong> React, Redux Toolkit, Sass, Vite
