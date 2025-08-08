@@ -83,29 +83,9 @@ export const About = () => {
             <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
             <h3 className="text-xl font-bold mb-4"> 💼 Work Experience </h3>
               <div className="space-y-4 text-gray-300">
-
-              <div>
-                  <h4 className="font-semibold">Front-End Developer <br /><br />Puzzle Connect <br /> (July 2025 - Aug 2025)</h4>
-                  <p>
-                    Built a word puzzle game with timed rounds, hint mechanics, and a 3-lives system.
-                  </p>
-                  <p className="mt-1 text-sm text-gray-400">
-                    <strong>Tech stack:</strong> React, Sass
-                  </p>
-                </div>
-
+////////////////////////////////////
                 <div>
-                  <h4 className="font-semibold">Front-End Developer <br /><br />Arbre Bnb <br /> (May 2025 - June 2025)</h4>
-                  <p>
-                    Created a booking website for treehouse accommodations, featuring immersive UI, lightbox galleries, and live pricing.
-                  </p>
-                  <p className="mt-1 text-sm text-gray-400">
-                    <strong>Tech stack:</strong> React, React DatePicker, Sass, Lightbox, Vite
-                  </p>
-                </div>
-
-                <div>
-                  <h4 className="font-semibold">Front-End Developer <br /><br />Fitness Trainer App <br /> (Feb 2025 - Apr 2025)</h4>
+                  <h4 className="font-semibold">Fitness Trainer App (2025)</h4>
                   <p>
                     Developed a fully responsive workout application allowing users to build custom routines.
                   </p>
@@ -113,7 +93,27 @@ export const About = () => {
                     <strong>Tech stack:</strong> React, Redux Toolkit, Sass, Vite
                   </p>
                 </div>
-
+/////////////////////////////////////////////////////////////////////////////
+                <div>
+                  <h4 className="font-semibold">Arbre Bnb (2025)</h4>
+                  <p>
+                    Created a booking website for treehouse accommodations, featuring immersive UI, lightbox galleries, and live pricing.
+                  </p>
+                  <p className="mt-1 text-sm text-gray-400">
+                    <strong>Tech stack:</strong> React, React DatePicker, Sass, Lightbox, Vite
+                  </p>
+                </div>
+//////////////////////////////////////////////////////////////////////////////
+                <div>
+                  <h4 className="font-semibold">Puzzle Connect (2025)</h4>
+                  <p>
+                    Built a word puzzle game with timed rounds, hint mechanics, and a 3-lives system.
+                  </p>
+                  <p className="mt-1 text-sm text-gray-400">
+                    <strong>Tech stack:</strong> React, Sass
+                  </p>
+                </div>
+/////////////////////////////////////////////////////////////////////////
               </div>
             </div>
           </div>
